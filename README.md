@@ -9,10 +9,9 @@ Repositorio para ejercicio Operaciones guía 1.0 ejercicios GIT JUnit
 -	Realice los test unitarios para probar los todos los métodos de Operaciones básicas.
 
 	Cree un nuevo repositorio OPERACIONES en su cuenta GitHub y realice lo siguiente:
-o	Crear un nuevo repositorio local.
-o	Agregar el proyecto completo al repositorio local.
-o	Realizar commit de todos los archivos al repositorio local con un mensaje distintivo.
-o	Realizar un push hacia el repositorio remoto con el comando 
-git push <nombreRepoRemoto> master implementado en clases.
-o	Verificar que todos los archivos hayan quedado disponibles en el repositorio remoto de GitHub.
+-	Crear un nuevo repositorio local.
+-	Agregar el proyecto completo al repositorio local.
+-	Realizar commit de todos los archivos al repositorio local con un mensaje distintivo.
+-	Realizar un push hacia el repositorio remoto con el comando git push <nombreRepoRemoto> master implementado en clases.
+-	Verificar que todos los archivos hayan quedado disponibles en el repositorio remoto de GitHub.
   
